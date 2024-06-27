@@ -1,0 +1,14 @@
+C:\João\Repos\Lista_Exercicio1\Lista_Exercicio1\bin\Debug\net8.0\Lista_Exercicio1.exe
+C:\João\Repos\Lista_Exercicio1\Lista_Exercicio1\bin\Debug\net8.0\Lista_Exercicio1.deps.json
+C:\João\Repos\Lista_Exercicio1\Lista_Exercicio1\bin\Debug\net8.0\Lista_Exercicio1.runtimeconfig.json
+C:\João\Repos\Lista_Exercicio1\Lista_Exercicio1\bin\Debug\net8.0\Lista_Exercicio1.dll
+C:\João\Repos\Lista_Exercicio1\Lista_Exercicio1\bin\Debug\net8.0\Lista_Exercicio1.pdb
+C:\João\Repos\Lista_Exercicio1\Lista_Exercicio1\obj\Debug\net8.0\Lista_Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\João\Repos\Lista_Exercicio1\Lista_Exercicio1\obj\Debug\net8.0\Lista_Exercicio1.AssemblyInfoInputs.cache
+C:\João\Repos\Lista_Exercicio1\Lista_Exercicio1\obj\Debug\net8.0\Lista_Exercicio1.AssemblyInfo.cs
+C:\João\Repos\Lista_Exercicio1\Lista_Exercicio1\obj\Debug\net8.0\Lista_Exercicio1.csproj.CoreCompileInputs.cache
+C:\João\Repos\Lista_Exercicio1\Lista_Exercicio1\obj\Debug\net8.0\Lista_Exercicio1.dll
+C:\João\Repos\Lista_Exercicio1\Lista_Exercicio1\obj\Debug\net8.0\refint\Lista_Exercicio1.dll
+C:\João\Repos\Lista_Exercicio1\Lista_Exercicio1\obj\Debug\net8.0\Lista_Exercicio1.pdb
+C:\João\Repos\Lista_Exercicio1\Lista_Exercicio1\obj\Debug\net8.0\Lista_Exercicio1.genruntimeconfig.cache
+C:\João\Repos\Lista_Exercicio1\Lista_Exercicio1\obj\Debug\net8.0\ref\Lista_Exercicio1.dll
